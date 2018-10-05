@@ -1,5 +1,4 @@
-//Author 1 : Luv Patel (201501459)
-//Author 2 : Harshal Khodifad (201501461)
+//Author: Harshal Khodifad (201501461)
 
 #include <stdlib.h>
 #include <stdio.h>
