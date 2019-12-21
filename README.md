@@ -1,2 +1,2 @@
-# parallel_sudoku_solver
-An attempt to decrease time complexity of NP-Complete problem.
+# Parallel Sudoku Solver
+An attempt to reduce time complexity of NP-Complete problem.
